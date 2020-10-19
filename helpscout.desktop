@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=HelpScout
+Exec=webapp-container --app-id="helpscout.alexmigf" --webappUrlPatterns https://secure.helpscout.net/members/login/
+Icon=assets/logo.svg
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
